@@ -10,4 +10,5 @@ return {
   -- import/override with your plugins folder
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
   { import = "astrocommunity.workflow.hardtime-nvim" },
+  { import = "astrocommunity.utility.noice-nvim" },
 }
