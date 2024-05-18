@@ -10,6 +10,9 @@ return {
   { import = "astrocommunity.pack.angular" },
   { import = "astrocommunity.pack.html-css" },
   { import = "astrocommunity.pack.typescript" },
+  { import = "astrocommunity.pack.kotlin" },
+  { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.python" },
   -- import/override with your plugins folder
   { import = "astrocommunity.file-explorer.telescope-file-browser-nvim" },
   -- { import = "astrocommunity.workflow.hardtime-nvim" },

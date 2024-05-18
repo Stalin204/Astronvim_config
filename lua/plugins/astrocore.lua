@@ -43,6 +43,7 @@ return {
       -- first key is the mode
       i = {
         ["jk"] = { "<esc>" }, -- change description but the same command
+        ["jj"] = { "<esc>" },
       },
       n = {
         -- second key is the lefthand side of the map
